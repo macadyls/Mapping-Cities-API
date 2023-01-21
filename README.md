@@ -14,7 +14,7 @@ For each city, API calls have been made to openweathermap to collect the weather
 
 Linear regression analysis was then conducted for the relationship between the Latitudes of the cities and their weather conditions to uncover any trends, found in the WeatherPy.ipynn file.
 
-Some observable trends were:
+Some **observable trends** were:
 1. There was a concave down shape in the City Latitude vs. Max Temperature (09/18/2021) scatter plot suggesting that maximum temperature drops when deviating away from the equator.
 	Upon further investigation in the regression analysis for northern and southern hemispheres, there was strong negative of -0.82 and strong positive of 0.78 respectively.
 	This correlations support the suggested statement: Maximum Temperature drops when deviating away from the Equator.
