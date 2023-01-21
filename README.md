@@ -26,7 +26,7 @@ Some **observable trends** were:
 
 ## VacationPy
 
-A heatmap has been generated using the jupyter extension gmap for each of the selected cities and their humidity. A filter is then applied to spot the best weather conditions, that is:
+A heatmap has been generated using the jupyter extension gmap for each of the selected cities and their **humidity**. A filter is then applied to spot the best weather conditions, that is:
 
 - A max temperature lower than 80 degrees but higher than 70.
 - Wind speed less than 10 mph.
